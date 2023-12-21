@@ -1,0 +1,49 @@
+ <div class="row row-cols-1 row-cols-md-4 mb-3 text-center">
+      <div class="col">
+        <div class=" mb-4 rounded-3 shadow-sm  card-img">
+          <div class="py-3 ">
+            <span class="card-img">
+              <img src="./media/icon/Mask-group1.svg" class="img-slick" >
+              <h1 class="card-title pricing-card-title">$15<small class="text-body-secondary fw-light">/mo</small></h1>
+              <h1 class="card-title pricing-card-title">$15<small class="text-body-secondary fw-light">/mo</small></h1>
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class=" mb-4 rounded-3 shadow-sm  card-img">
+          <div class="py-2" >
+            <span>
+              <img src="./media/icon/Mask-group2.svg" class="img-slick">
+            </span>
+            <h1 class="card-title pricing-card-title">$15<small class="text-body-secondary fw-light">/mo</small></h1>
+            <h1 class="card-title pricing-card-title">$15<small class="text-body-secondary fw-light">/mo</small></h1>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class=" mb-4 rounded-3 shadow-sm  card-img">
+          <div class="py-2">
+            <span>
+              <img src="./media/icon/Mask-group3.svg">
+            </span>
+            <h1 class="card-title pricing-card-title">$29<small class="text-body-secondary fw-light">/mo</small></h1>
+            <h1 class="card-title pricing-card-title">$29<small class="text-body-secondary fw-light">/mo</small></h1>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="mb-4 rounded-3 shadow-sm  card-img">
+          <div class="py-2">
+            <span>
+              <img src="./media/icon/Vector-36.svg">
+            </span>
+            <h1 class="card-title pricing-card-title">$29<small class="text-body-secondary fw-light">/mo</small></h1>
+            <h1 class="card-title pricing-card-title">$29<small class="text-body-secondary fw-light">/mo</small></h1>
+          </div>
+        </div>
+      </div>
+    </div>
